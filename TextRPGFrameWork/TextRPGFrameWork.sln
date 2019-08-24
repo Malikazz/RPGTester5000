@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29123.88
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextRPGFrameWork", "TextRPGFrameWork\TextRPGFrameWork.csproj", "{19805448-0565-4591-8D7D-0D0340A1F02E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{19805448-0565-4591-8D7D-0D0340A1F02E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19805448-0565-4591-8D7D-0D0340A1F02E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19805448-0565-4591-8D7D-0D0340A1F02E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19805448-0565-4591-8D7D-0D0340A1F02E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {14D98443-4264-49E7-9CED-47DEA3279FB4}
+	EndGlobalSection
+EndGlobal
